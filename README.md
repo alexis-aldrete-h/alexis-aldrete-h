@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://indoanalytica.com/static/images/bannerr.gif)
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)]
 <h1 align="center">Hi 👋, I'm Alexis Aldrete</h1>
 <h3 align="center">I’m a Software Developer with over 3 years of experience in Cloud, Mobile, and Web Applications</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
